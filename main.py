@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
-image_path = r"/home/user/Downloads/road.jpg"
+image_path = r"/home/user/Downloads/road_image2.jpeg"
 image1 = cv2.imread(image_path)
 plt.imshow(image1)
 
